@@ -1,4 +1,4 @@
-# *Using Pre-trained Models: Tokenization to Predictions*
+# **Using Pre-trained Models: Tokenization to Predictions**
 
 ### In this notebook, I explore the use of a pre-trained model (like BERT) step by step
 
